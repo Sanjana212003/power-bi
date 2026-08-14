@@ -54,17 +54,6 @@ The dashboard highlights several products with comparatively high total profit, 
 * **Business Intelligence**
 * **Geographical Data Analysis**
 
-## Skills Demonstrated
-
-* Power BI dashboard creation
-* Data visualization and report design
-* KPI reporting
-* Product-level profitability analysis
-* Geographical sales analysis
-* Business performance analysis
-* Data interpretation and visualization
-* Interactive dashboard development
-
 ## Conclusion
 
 The dashboard provides a concise view of the Global Superstore's sales and profitability performance. It helps identify high-profit products, understand geographical sales distribution, and monitor key business metrics such as quantity, sales, and profit.
